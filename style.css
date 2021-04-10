@@ -1,0 +1,21 @@
+.titleHead {
+  width: 90%;
+  box-shadow: 5px 1px 5px 10px white;
+}
+.footer {
+  line-height: 3;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+canvas {
+  border: rgb(196, 185, 185) 5px double;
+  border-radius: 30px;
+  box-shadow: 1px 5px 5px 18px;
+  background-color: rgb(12, 12, 107);
+}
+#colorName {
+  width: 20%;
+  margin-top: 10px;
+}
